@@ -1,4 +1,4 @@
-module github/limtech/mdb
+module github.com/limtech/mdb
 
 go 1.13
 
